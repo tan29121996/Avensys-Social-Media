@@ -1,3 +1,7 @@
+# My roles
+
+I helped to create the feed page and user profile page using Angular JS and wrote the functionality for updating the posts.
+
 # Social Media Platform
 
 This project aims to create a social media platform using Java, Spring, and Angular. The platform allows users to view and create posts with various types of content, including hyperlinks and media (videos), along with captions. Users can sign up, log in, and manage their own posts. An admin role is available to manage the platform, including maintaining posts and users.
